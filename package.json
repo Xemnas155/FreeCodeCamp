@@ -1,6 +1,6 @@
 {	
-	"author": "Segio Galvan",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Segio Galvan",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
